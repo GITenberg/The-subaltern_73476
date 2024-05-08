@@ -1,5 +1,8 @@
 _repo: The-subaltern_73476
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73476-h/images/cover.jpg
 creator:
   author:
     agent_name: Gleig, G. R. (George Robert)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8056
     wikipedia: https://en.wikipedia.org/wiki/George_Gleig_(priest)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73476#The-subaltern
 gutenberg_issued: '2024-04-27'
 gutenberg_type: Text
 identifiers:
